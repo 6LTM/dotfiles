@@ -1,0 +1,10 @@
+
+# init z
+. ~/.bin/z.sh
+
+# init rvm...for jekyll
+source ~/.rvm/scripts/rvm
+
+
+# init oh-my-zsh
+source $ZSH/oh-my-zsh.sh
