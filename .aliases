@@ -3,4 +3,6 @@
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias gs="git status"
+alias gm="git merge"
+alias gb="git checkout"
 alias gc="git commit -m"
